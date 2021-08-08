@@ -40,7 +40,7 @@ export const Success = ({ student }) => {
     UPDATE_STUDENT_MUTATION,
     {
       onCompleted: () => {
-        toast.success('Student updated')
+        toast.success('Student updated what')
         navigate(routes.students())
       },
     }

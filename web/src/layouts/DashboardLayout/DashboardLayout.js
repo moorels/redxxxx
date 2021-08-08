@@ -1,4 +1,4 @@
-import styled from 'styled-components';
+import styled from 'styled-components'
 import { Link, routes } from '@redwoodjs/router'
 
 const DashboardLayout = ({ children }) => {

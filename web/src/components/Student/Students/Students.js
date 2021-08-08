@@ -65,7 +65,7 @@ const StudentsList = ({ students }) => {
             <th>Email</th>
             <th>First name</th>
             <th>Last name</th>
-            <th>Role</th>
+            <th>Rolex</th>
             <th>Course id</th>
             <th>&nbsp;</th>
           </tr>

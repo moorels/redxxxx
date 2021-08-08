@@ -1,9 +1,9 @@
 .test {
 
-  color:rgb(228, 31, 185);
-  font-size: 60px;
+  color:rgba(142, 0, 236, 0.787);
+  font-size: 30px;
   border-radius: 10px;
   text-align: center;
-  background: rgb(0, 0, 0);
+  background: rgb(185, 185, 181);
 
 }

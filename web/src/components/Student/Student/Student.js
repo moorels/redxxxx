@@ -67,7 +67,7 @@ const Student = ({ student }) => {
               <td>{student.firstName}</td>
             </tr>
             <tr>
-              <th>Last name</th>
+              <th>Last namex</th>
               <td>{student.lastName}</td>
             </tr>
             <tr>
